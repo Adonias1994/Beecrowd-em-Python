@@ -1,3 +1,3 @@
 # Beecrowd
-Beecrowd Problem Solving - List of All Problems
+Resolução de Problemas no Beecrowd – Lista de Todos os Problemas
 
